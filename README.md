@@ -34,7 +34,7 @@ social media platforms.*
 
 *- A line tool for creating straight lines.*
 
-*- Support for mobile phones and more obscure viewports.*
+*- Support for mobile phones and more obscure viewports (tablets).*
 
 ## Currently Known Bugs:
 
