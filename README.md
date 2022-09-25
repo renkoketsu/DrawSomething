@@ -20,7 +20,7 @@ on, this location can be found at */var/www/html* and
 
 The webserver can be started on Linux by using the command 
 *sudo systemctl start apache2*, and it can be started on Windows
-by using the command *httpd.exe* in a command line opened within the
+by using the command *httpd.exe* in a command prompt opened within the
 *C:/Apache24* folder.
 
 Now the webpage can be loaded by typing localhost into the address bar
