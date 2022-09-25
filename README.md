@@ -44,3 +44,5 @@ dynamically change. Attempting to do so makes the canvas break.*
 *- Different operating systems change the background of the image when
 downloaded. Windows has a black background while Linux has a transparent
 one.*
+
+*- Draw Something header in h1 is cut off a little bit*
